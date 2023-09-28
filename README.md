@@ -15,6 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,nextjs,tailwind,git,github,bash,linkedin)](https://skillicons.dev)
 
 #
-
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=GOSHA7cc&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOSHA7cc&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOSHA7cc&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOSHA7cc&layout=compact&theme=radical"/>
+</div>
