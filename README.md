@@ -3,7 +3,7 @@
 ### • Estou estudando, para me tornar um desenvolvedor Full-Stack, quero aprimorar meus conhecimentos e aprender mais sobre outras linguagens de programação.
 ### • Em busca do primeiro emprego.
 ### • Experiencia basica em Java-Script, CSS, HTML5, Next.js, React e Tailwind.
-### • Entre em contato comigo pelo meu gmail williamdemelo2017@gmail.com ou por telefone +55 (81)99112-8926 (número com whatsapp).
+### • Entre em contato comigo pelo meu gmail williamdemelo2017@gmail.com ### ou por telefone +55 (81)99112-8926 (número com whatsapp).
 
 ### Tecnologias que eu uso e estou aprendendo em meu dia a dia
 
