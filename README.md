@@ -4,7 +4,7 @@
 
  • Em busca do primeiro emprego.
 
- • Experiencia basica em Java-Script, CSS, HTML5, Next.js, React e Tailwind.
+ • Experiencia basica em Java-Script, CSS, HTML5, React, Next.js e Tailwind.
 
  • Entre em contato comigo pelo meu gmail williamdemelo2017@gmail.com ou por telefone +55 (81)99112-8926 (número com whatsapp).
 
